@@ -1,6 +1,6 @@
 # Google Search Chrome Extension
 
-This Chrome extension adds a "Search on Google" option to the context menu when you select text on a webpage. This is particularly useful for browsers like Brave, where the default search engine for context menu searches might be different.
+This Chrome extension adds a "Search on Google" option to the context menu when you select text on a webpage. This is particularly useful for browsers like Brave, where the default search engine for context menu searches might be different. The extension is useful if you are using Chrome based browsers such as Brave browser which does not provide this option.
 
 ## Features
 
