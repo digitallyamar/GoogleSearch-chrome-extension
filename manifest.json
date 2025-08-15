@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "Google Search",
+  "version": "1.0",
+  "description": "Adds a 'Search on Google' option to the context menu for selected text.",
+  "permissions": [
+    "contextMenus"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  }
+}
